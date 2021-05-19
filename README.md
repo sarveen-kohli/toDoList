@@ -1,7 +1,8 @@
 # toDoList
 To-Do list with create and delete options
-Implement a To-Do List with Javascript and Local Storage
-Steps:
+Implement a To-Do List with Javascript and Local Storage.
+
+Steps to follow:
 1. Create the HTML(Markup) and CSS(Style sheet)
 2. Define the JavaScript 
 3. Create Tasks and Submit to do Form:
